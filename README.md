@@ -1,1 +1,1 @@
-# Optical-Flow-for-MR Angiography Sample Program
+# Optical-Flow-for-Angiography Sample Program
